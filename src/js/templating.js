@@ -1,4 +1,4 @@
-import cardsTemplate from '../templates/menu-template.hbs';
+import cardsTemplate from '../templates/menutemplate.hbs';
 import cards from '../menu.json';
 
 const markup = cardsTemplate(cards);
